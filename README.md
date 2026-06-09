@@ -5,8 +5,8 @@ a simple kde wallpaper chooser wrriten in go.
 
 # Dependencies
 
-rofi
-kde plasma 6
+- rofi
+- kde plasma 6
 
 
 yea thats it 
